@@ -1,0 +1,2 @@
+# smartscreen
+http://translate.goog/
